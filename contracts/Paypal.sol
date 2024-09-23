@@ -35,7 +35,7 @@ contract Paypal {
     function addName(string memory _name) public {
         userName storage newUsername =  names[msg.sender];
         newUsername.name = _name;
-        newUsername.hasName = true;
+        newUsername.hasName = true;a
     }
 
     function createRequest(address user, uint256 _amount, string memory _message) public {
