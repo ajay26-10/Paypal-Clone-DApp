@@ -19,3 +19,26 @@ The PayPal Clone DApp is a decentralized application built on Ethereum that mimi
 - Node.js
 - npm (Node Package Manager)
 - MetaMask (for wallet interaction)
+
+# Installation  
+
+```
+git clone https://github.com/ajay26-10/Paypal-Clone-DApp
+npm install
+```
+```
+cd ui
+npm run dev
+```
+# Usage  
+- Connect your MetaMask wallet to the DApp.
+- Register your account by setting your name.
+- Create payment requests for other users.
+- View and manage your requests and transaction history.
+
+# License  
+This project is licensed under the MIT License.  
+
+# Contribution  
+Contributions are welcome! Please feel free to submit a pull request or open an issue.
+
